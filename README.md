@@ -1,2 +1,3 @@
 # hello-world
-this is the first repo
+this is the second repo
+and we are getting there
